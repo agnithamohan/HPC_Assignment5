@@ -4,3 +4,4 @@
 - make 
 - mpirun --mca btl '^openib' --np <number-of-processes> jac <N> <max-iterations> 
 - mpirun --mca btl '^openib' --np <number-of-processes> ssort <N>
+(Delete files from SortedValues before running code for sample sort)
